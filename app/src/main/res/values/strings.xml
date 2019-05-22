@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Uber</string>
+    <string name="reg_strate">Regístrate</string>
+    <string name="no_tienes_una_cuenta">¿No tienes una cuenta?</string>
+    <string name="bienvenido_a_sercan">BIENVENIDO A SERCAN</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="e_mail">E-mail</string>
+</resources>
